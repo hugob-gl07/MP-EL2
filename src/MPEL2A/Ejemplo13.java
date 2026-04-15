@@ -24,7 +24,7 @@ public class Ejemplo13 {
             metodoB();
         } catch (XxxException ex) {
             System.out.println("Excepción capturada en metodoA: " + ex.getMessage());
-            // Imprimimos el rastreo para ver el camino que recorrió la excepción [cite: 437]
+            // Imprimimos el rastreo para ver el camino que recorrió la excepción
             ex.printStackTrace();
         }
     }

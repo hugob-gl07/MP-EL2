@@ -6,7 +6,7 @@ public class Asignaturas {
     private String Asignatura;               // nombre de la asignatura
     private List<Estudiantes> estudiantes;   // lista dinámica de estudiantes (inicia vacía)
 
-    /** Constructor: asigna el nombre de la asignatura e inicializa la lista de estudiantes vacía */
+    /** Constructor: Asigna el nombre de la asignatura e inicializa la lista de estudiantes vacía */
     public Asignaturas(String Asignatura) {
         this.Asignatura = Asignatura;
         this.estudiantes = new ArrayList<>();  // lista vacía lista para recibir estudiantes
