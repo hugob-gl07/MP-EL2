@@ -1,6 +1,4 @@
 package MPEL2A;// Archivo: MainPractica.java
-import Ejemplos.*;
-
 public class MainPractica {
     public static void main(String[] args) {
         System.out.println("=== INICIO DE LA PRÁCTICA DE MANEJO DE EXCEPCIONES ===\n");
