@@ -1,4 +1,4 @@
-package Ejemplos;
+package MPEL2A;
 
 // Archivo: Ejemplo1.2.java
 public class Ejemplo12 {
