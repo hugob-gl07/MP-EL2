@@ -1,0 +1,8 @@
+La serialización en Java transforma un objeto en una secuencia  de bytes  en cambio, lo que hemos hecho con JSON convierte el objeto a un formato de
+texto estructurado, más legible y fácil de intercambiar entre programas. La principal diferencia es que la serialización nativa de Java está pensada para
+ella y depende de la estructura interna de las clases, mientras que JSON es más portable e independiente del lenguaje. Además, JSON suele ser más cómodo para
+depurar porque se puede leer directamente, mientras que el formato binario de Java no es legible a simple vista. En conclusión, aunque ambos métodos permiten
+almacenar y transmitir objetos, JSON nos ofrece una mayor flexibilidad y compatibilidad entre diferentes sistemas, mientras que la serialización nativa de Java
+es más eficiente en términos de rendimiento pero menos portable.
+
+
